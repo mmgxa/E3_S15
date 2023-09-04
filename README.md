@@ -13,6 +13,8 @@ In this session, we perform model explainability for Image and NLP tasks.
 pip install timm shap grad-cam captum
 ```
 
+Images were downloaded from [github](https://github.com/EliSchwartz/imagenet-sample-images)
+
 ```
 python explain.py
 ```
